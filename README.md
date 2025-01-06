@@ -94,12 +94,39 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Configure SLA and Help Topics</h3>
 
 - In the Admin Panel under the Manage Tab
-  - Click "Add New SLA Plan"
-  - In the formfields set the following:
-    - Name: Sev-A
-    - Grace Period: 1
-    - Schedule: 24/7
-  - Click "Add Plan"
+  - Select the SLA Section
+    - Click "Add New SLA Plan"
+      - In the formfields set the following:
+        - Name: Sev-A
+        - Grace Period: 1
+          - This is the time (in hours) after the ticket is created it will be marked as overdue if no response has been made.
+        - Schedule: 24/7
+          - This defines the timer for the grace period. A Business Hours schedule would not count the Grace Period outside of defined business hour, i.e. 9 am to 5 pm.
+    - Click "Add Plan"
+    - Add 2 more SLA Plans with the following
+      - SLA Sev-B
+        - Name: Sev-B
+        - Grace Period: 4
+        - Schedule: 24/7
+      - SLA Sev-C
+        - Name: Sev-C
+        - Grace Period: 8
+        - Schedule: Business Hours
+- In the Admin Panel under the Manage Tab
+  - Select the Help Topics Section
+    - Click "Add New Help Topic"
+      - In the formfields set the following:
+        - Topic: Business Critical Outage
+        - Parent Topic: Report a Problem
+        - Under the New ticket options tab:
+          - Priority: High
+          - SLA Plan: Sev-A
+      - Click "Add Topic"
+    - The above can be repeated the following Help Topics and setting their Parent Topics, Priority, and SLA Plan appropriately based on the issue type:
+      - Personal Computer Issues
+      - Equipment Request
+      - Password Reset
+      - Other
 
 
 <p>
