@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA and Help Topics
 
 <h2>Configuration Steps</h2>
-<h3>Define Roles. Departments, and Teams</h3>
+<h3>Define Roles, Departments, and Teams</h3>
 
 - In the Admin Panel.
   - Go to Agents Tab.
