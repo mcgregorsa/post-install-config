@@ -55,10 +55,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 - In the Settings Tab of the Admin Panel.
   - Go to Users
     - Under Registration Required:
-      - Ensure the check box for "Require registartion and login to create tickets" is checked.
+      - Ensure the checkbox for "Require registartion and login to create tickets" is checked.
   - Click Save Changes
 - Go to the Agents Section of the Admin Panel.
-  - 
+  - Click Add New Agent
+    - In the text fields fill in:
+      - Name, Email, and Username
+        - Name: Jane Doe
+        - Username: JaneD
+        - Use a fake email.
+    - Click "Set Password" next to the Username text field.
+      - In the "Set Agent Password" pop-up
+        - Uncheck the "Send the agent a password reset email" and type in a password and confirm it in the text fields that open up.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
