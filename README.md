@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+# <h1>osTicket - Post-Install Configuration</h1>
 
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket and immediately follows the tutorial on [osTicket: Prerequisites and Installation](https://github.com/mcgregorsa/osticket-prereqs).
 
@@ -10,24 +10,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h2>Environments and Technologies Used</h2>
+## <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+## <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+## <h2>Post-Install Configuration Objectives</h2>
 
 - Define Roles. Departments, and Teams
 - Set Ticket Creation Permissions and Create Agents and Users
 - Configure SLA and Help Topics
 
-<h2>Configuration Steps</h2>
-<h3>Define Roles, Departments, and Teams</h3>
+## <h2>Configuration Steps</h2>
+### <h3>Define Roles, Departments, and Teams</h3>
 
 - In the Admin Panel.
   - Go to Agents Tab.
@@ -36,6 +36,12 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Name the Role: Supreme Admin
     - Go to the Permissions Tab and check all the boxes in the Tickets, Tasks, and Knowledgebase Tabs.
     - Click Add Role
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - Click the Departments section.
   - Click Add New Department
     - Name: SysAdmins
@@ -43,6 +49,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Check the box for the Maintenance Department.
     - In the drop down arrow of the More button select Delete.
       - Do not Archive, Delete the Department.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - Click the Teams Section.
   - Name: Online Banking
   - Click Create Team
@@ -51,13 +63,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-<h3>Set Ticket Creation Permissions and Create Agents and Users</h3>
+
+### <h3>Set Ticket Creation Permissions and Create Agents and Users</h3>
 
 - In the Settings Tab of the Admin Panel.
   - Go to Users
     - Under Registration Required:
       - Ensure the checkbox for "Require registration and login to create tickets" is checked.
   - Click Save Changes
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - Go to the Agents Section of the Admin Panel.
   - Click Add New Agent
     - In the text fields fill in:
@@ -80,6 +99,12 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Username: JohnS
     - Primary Department dropdowns
       - Support and All Access
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - Log out and login as Jane Doe
   - Go to the Users Tab of the Agent Panel
     - Click Add User
@@ -92,7 +117,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <br />
-<h3>Configure SLA and Help Topics</h3>
+
+### <h3>Configure SLA and Help Topics</h3>
 
 - In the Admin Panel under the Manage Tab
   - Select the SLA Section
@@ -113,6 +139,12 @@ This tutorial outlines the post-install configuration of the open-source help de
         - Name: Sev-C
         - Grace Period: 8
         - Schedule: Business Hours
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - In the Admin Panel under the Manage Tab
   - Select the Help Topics Section
     - Click "Add New Help Topic"
@@ -128,7 +160,6 @@ This tutorial outlines the post-install configuration of the open-source help de
       - Equipment Request
       - Password Reset
       - Other
-
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
