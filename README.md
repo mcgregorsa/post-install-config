@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Click Add Role
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a6315b9a-8cc8-4913-a531-07e7b689f70b" height="80%" width="80%" alt="Define Roles"/>
 </p>
 <br />
 
@@ -51,7 +51,7 @@ This tutorial outlines the post-install configuration of the open-source help de
       - Do not Archive, Delete the Department.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e9bd0e13-f701-4a3a-93e0-6bc3c9f2e19b" height="80%" width="80%" alt="Define Departments"/>
 </p>
 <br />
 
@@ -60,7 +60,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Click Create Team
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0684ee1a-bf53-4ba8-825b-3a7b1f93c2a2" height="80%" width="80%" alt="Define Teams"/>
 </p>
 <br />
 
