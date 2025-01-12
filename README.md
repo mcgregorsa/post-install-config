@@ -113,7 +113,7 @@ This tutorial outlines the post-install configuration of the open-source help de
       - Register the user and uncheck that the password does not have to be changed on next login.
 
 <p>
-<img src="https://github.com/user-attachments/assets/37897309-96ff-4e05-886d-f47c95c18a6d" height="80%" width="80%" alt="Create User Kate"/>
+<img src="https://github.com/user-attachments/assets/37897309-96ff-4e05-886d-f47c95c18a6d" height="80%" width="80%" alt="Create User Karen"/>
 </p>
 
 <br />
@@ -141,7 +141,7 @@ This tutorial outlines the post-install configuration of the open-source help de
         - Schedule: Business Hours
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2f964639-4076-4780-a967-642fd3da52fe" height="80%" width="80%" alt="Create SLAs"/>
 </p>
 <br />
 
@@ -162,6 +162,6 @@ This tutorial outlines the post-install configuration of the open-source help de
       - Other
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5a73e333-f671-49b1-b08c-3a22d31c404c" height="80%" width="80%" alt="Create Help Topics"/>
 </p>
 <br />
