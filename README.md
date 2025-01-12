@@ -73,7 +73,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Click Save Changes
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/cb93ff53-b74a-4a3c-a997-c9ca184d67d8" height="80%" width="80%" alt="Require User Registration to Create Tickets"/>
 </p>
 <br />
 
@@ -101,7 +101,7 @@ This tutorial outlines the post-install configuration of the open-source help de
       - Support and All Access
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/4f4db5d9-d345-4f52-b0ee-c84f10b2b6ed" height="80%" width="80%" alt="Create Agent Jane Doe"/>
 </p>
 <br />
 
@@ -113,7 +113,7 @@ This tutorial outlines the post-install configuration of the open-source help de
       - Register the user and uncheck that the password does not have to be changed on next login.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/37897309-96ff-4e05-886d-f47c95c18a6d" height="80%" width="80%" alt="Create User Kate"/>
 </p>
 
 <br />
